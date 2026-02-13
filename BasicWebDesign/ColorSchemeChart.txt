@@ -1,0 +1,49 @@
+Noah McNatt
+
+<!DOCTYPE html>
+<html lang="en-US">
+     <head>
+         <title>Color Scheme Chart</title>
+     </head>
+     <body>
+         <h2 style="font-family: Verdana, sans-serif;">Color Scheme Chart</h2>
+
+         <img src="BasicWebDesign/images/couragelogo.jpg" alt="courage brand logo" width="320" height="320"/>
+         <br/>
+         <br/>
+
+         <table>
+             <tr style="text-align:center; font-family:Verdana, sans-serif;">
+                 <td colspan="4">CouRage Logo<td>
+             </tr>
+             <tr style="text-align:center;">
+                 <th style="color:#FFFFFF; background-color:rgb(0, 30, 61);">Dark Blue</th>
+                 <th style="background-color:rgb(173, 216, 230);">Light Blue</th>
+                 <th style="background-color:rgb(255, 221, 0);">Yellow</th>
+                 <th style="background-color:rgb(255, 255, 255);">White</th>
+             </tr>
+             <tr style="text-align:center;">
+                 <td>#001E3D</td>
+                 <td>#ADD8E6</td>
+                 <td>#FFCC00</td>
+                 <td>#FFFFFF</td>
+             </tr>
+             <tr style="text-align:center;">
+                 <td>(0, 30, 61)</td>
+                 <td>(173, 216, 230)</td>
+                 <td>(255, 221, 0)</td>
+                 <td>(255, 255, 255)</td>
+             </tr>
+             <tr style="text-align:center;">
+                 <td>(210.5, 100%, 12%)</td>
+                 <td>(194.7, 53.3%, 79%)</td>
+                 <td>(48, 100%, 50%)</td>
+                 <td>(0, 0%, 100%)</td>
+             </tr>
+         </table>
+
+         <style>
+             table, tr, td, th {border: 1px solid black;}
+         </style>
+     </body>
+</html>
