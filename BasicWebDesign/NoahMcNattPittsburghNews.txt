@@ -1,0 +1,20 @@
+Noah McNatt
+
+<!DOCTYPE html>
+<html lang="en-US">
+     <head>
+         <title>Pittsburgh News</title>
+     </head>
+     <body>
+        <h1>Pittsburgh News</h1>
+        <h3>Sabrina Carpenter & Jonas Brothers Pittsburgh Concerts<br/> News Article</h3>
+        <p>Get ready for a jam packed couple of months by reading our article covering<br/> the arrival of Sabrina Carpenter and the Jonas Brothers in Pittsburgh! The 
+           article<br/> below gives a brief overview of the artists and all the important information regarding<br/> the concerts. Get ready, because the party is on in 
+           Pittsburgh.</p>
+        <a href="NoahMcNattConcertsArticleWebpage.html" target="_self">Concerts Article</a>
+        <h3>Pittsburgh Weekly Forecast</h3>
+        <p>Lately, the weather has been pretty all over the place, but we have<br/> you covered. Stay up-to-date with this week's Pittsburgh forecast<br/> posted below. Stay 
+           warm out there!</p>
+        <a href="https://www.wpxi.com/weather/" target="_blank">Pittsburgh Weekly Forecast</a>
+     </body>
+</html>
