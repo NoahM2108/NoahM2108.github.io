@@ -1,0 +1,71 @@
+Noah McNatt
+
+<!DOCTYPE html>
+<html lang="en-US">
+     <head>
+         <title>RNR Eatery Menu</title>
+     </head>
+     <body>
+         <h1 style="text-align:center; font-family:'Brush Script MT', cursive; font-size:64px;">RNR Eatery</h1>
+
+         <div style="width:400px; height:570; background-image:url('BasicWebDesign/images/pattern1.jpg'); background-position:center center; border-style:double; border-width:medium; border-color:#FFD700; margin:auto;">
+           <h1 style="text-align:center; color:#FFFFFF; font-family:'Courier New', monospace; text-decoration:underline; background-color:#000000;">Breakfast Menu</h1>
+         <div style="padding:5px; margin:20px 60px;">
+           <img src="BasicWebDesign/images/frenchtoast.jpg" alt="french toast" width="110px" height="110px"/>
+           <p style="color:#FFFFFF; text-decoration:underline; font-size:17px; margin:15px 11px;">French Toast</p>
+           <img src="BasicWebDesign/images/pancakes.jpg" alt="pancakes" width="110px" height="110px"/>
+           <p style="color:#FFFFFF; text-decoration:underline; font-size:17px; margin:15px 24px;">Pancakes</p>
+           <img src="BasicWebDesign/images/coffee.jpg" alt="cup of coffee" width="110px" height="110px"/>
+           <p style="color:#FFFFFF; text-decoration:underline; font-size:17px; margin:15px 34px;">Coffee</p>
+         </div>
+         <div style="padding:5px; margin:-510px 220px;">
+           <img src="BasicWebDesign/images/omelette.jpg" alt="omelette" width="110px" height="110px"/>
+           <p style="color:#FFFFFF; text-decoration:underline; font-size:17px; margin:15px 23px;">Omelette</p>
+           <img src="BasicWebDesign/images/waffles.jpg" alt="waffles" width="110px" height="110px"/>
+           <p style="color:#FFFFFF; text-decoration:underline; font-size:17px; margin:15px 28px;">Waffles</p>
+           <img src="BasicWebDesign/images/fruitsmoothies.jpg" alt="fruit smoothies" width="110px" height="110px"/>
+           <p style="color:#FFFFFF; text-decoration:underline; font-size:16px; margin:8px 22px;">VeryBerry Smoothie</p>
+         </div>
+         </div>
+
+         <div style="width:400px; height:570; background-image:url('BasicWebDesign/images/pattern1.jpg'); background-position:center center; border-style:double; border-width:medium; border-color:#FFD700; margin:auto;">
+           <h1 style="text-align:center; color:#FFFFFF; font-family:'Courier New', monospace; text-decoration:underline; background-color:#000000">Lunch Menu</h1>
+         <div style="padding:5px; margin:20px 60px;">
+           <img src="BasicWebDesign/images/cheeseburger.jpg" alt="cheeseburger" width="110px" height="110px"/>
+           <p style="color:#FFFFFF; text-decoration:underline; font-size:17px; margin:14px 8px;">Cheeseburger</p>
+           <img src="BasicWebDesign/images/fishandchips.jpg" alt="fish and chips" width="110px" height="110px"/>
+           <p style="color:#FFFFFF; text-decoration:underline; font-size:17px; margin:14px 9px;">Fish & Chips</p>
+           <img src="BasicWebDesign/images/sweeticedtea.jpg" alt="glass of sweet iced tea" width="110px" height="110px"/>
+           <p style="color:#FFFFFF; text-decoration:underline; font-size:17px; margin:8px 25px;">Sweet<br/>Iced Tea</p>
+         </div>
+         <div style="padding:5px; margin:-519px 220px;">
+           <img src="BasicWebDesign/images/grilledcheesesandwich.jpg" alt="grilled cheese sandwich" width="110px" height="110px"/>
+           <p style="color:#FFFFFF; text-decoration:underline; font-size:16px; margin:9px 32px;">Grilled Cheese</p>
+           <img src="BasicWebDesign/images/margheritapizza.jpg" alt="margherita pizza" width="110px" height="110px"/>
+           <p style="color:#FFFFFF; text-decoration:underline; font-size:16px; margin:9px 19px;">Margherita Pizza</p>
+           <img src="BasicWebDesign/images/rootbeer.jpg" alt="glass of root beer" width="110px" height="110px"/>
+           <p style="color:#FFFFFF; text-decoration:underline; font-size:16px; margin:8px 40px;">Root Beer</p>
+         </div>
+         </div>
+
+         <div style="width:400px; height:570; background-image:url('BasicWebDesign/images/pattern1.jpg'); background-position:center center; border-style:double; border-width:medium; border-color:#FFD700; margin:auto;">
+           <h1 style="text-align:center; color:#FFFFFF; font-family:'Courier New', monospace; text-decoration:underline; background-color:#000000">Dinner Menu</h1>
+         <div style="padding:5px; margin:20px 60px;">
+           <img src="BasicWebDesign/images/steak.jpg" alt="piece of steak" width="110px" height="110px"/>
+           <p style="color:#FFFFFF; text-decoration:underline; font-size:17px; margin:14px 37px;">Steak</p>
+           <img src="BasicWebDesign/images/pasta.jpg" alt="bowl of pasta" width="110px" height="110px"/>
+           <p style="color:#FFFFFF; text-decoration:underline; font-size:17px; margin:14px 37px;">Pasta</p>
+           <img src="BasicWebDesign/images/sweeticedtea.jpg" alt="glass of sweet iced tea" width="110px" height="110px"/>
+           <p style="color:#FFFFFF; text-decoration:underline; font-size:17px; margin:8px 25px;">Sweet<br/>Iced Tea</p>
+         </div>
+         <div style="padding:5px; margin:-519px 220px;">
+           <img src="BasicWebDesign/images/grilledchicken.jpg" alt="pieces of grilled chicken" width="110px" height="110px"/>
+           <p style="color:#FFFFFF; text-decoration:underline; font-size:16px; margin:9px 30px;">Grilled Chicken</p>
+           <img src="BasicWebDesign/images/fettuccinealfredo.jpg" alt="bowl of fettuccine alfredo" width="110px" height="110px"/>
+           <p style="color:#FFFFFF; text-decoration:underline; font-size:16px; margin:9px 22px;">Fettuccine Alfredo</p>
+           <img src="BasicWebDesign/images/redwine.jpg" alt="glass of red wine" width="110px" height="110px"/>
+           <p style="color:#FFFFFF; text-decoration:underline; font-size:16px; margin:8px 40px;">Red Wine</p>
+         </div>
+         </div>
+     </body>
+</html>
