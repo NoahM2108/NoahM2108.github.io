@@ -1,0 +1,59 @@
+Noah McNatt
+
+<!DOCTYPE html>
+<html lang="en-US">
+     <head>
+         <title>Noah's Daily Schedule</title>
+
+         <style>
+             h1 {font-family:monospace; font-size:40px; text-align:center;}
+
+             table {height:300px; margin:auto; text-align:center; background-color:#0C77B9; color:#FFFFFF; border-collapse:collapse;}
+
+             td {font-size:20px; font-family:monospace; border:solid 2px #000000; padding:10px;}
+
+             td.lighter {font-size:25px; font-family:Impact, fantasy; color:#000000; background-color:#CBCED6;}
+         </style>
+     </head>
+     <body>
+         <h1>Noah's Daily Schedule</h1>
+
+         <table>
+             <tr>
+                <td class="lighter">Times</td>
+                <td class="lighter">6:00/am</td>
+                <td class="lighter">7:30/am</td>
+                <td class="lighter">8:00/am</td>
+                <td class="lighter">9:00/am</td>
+                <td class="lighter">10:00/am</td>
+                <td class="lighter">11:00/am</td>
+                <td class="lighter">12:00/pm</td>
+                <td class="lighter">1:00/pm</td>
+                <td class="lighter">1:50/pm</td>
+                <td class="lighter">5:00/pm</td>
+                <td class="lighter">5:30/pm</td>
+                <td class="lighter">6:30/pm</td>
+                <td class="lighter">9:45/pm</td>
+                <td class="lighter">10:00/pm</td>
+             </tr>
+
+             <tr>
+                <td class="lighter">Activities</td>
+                <td>Wake Up & Get Ready</td>
+                <td>Eat Breakfast</td>
+                <td>Adobe InDesign Class</td>
+                <td>Basic Web Design Class</td>
+                <td>AP English Literature Class</td>
+                <td>Exploring Cinema Class</td>
+                <td>Practical Mathematics Class</td>
+                <td>Eat Lunch</td>
+                <td>Complete Any Remaining Assignments</td>
+                <td>Get Off School</td>
+                <td>Eat Dinner & Watch TV</td>
+                <td>Play Video Games</td>
+                <td>Get Ready For Bed</td>
+                <td>Go To Bed</td>
+             </tr>
+         </table>
+     </body>
+</html>
