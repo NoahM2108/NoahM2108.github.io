@@ -20,25 +20,25 @@ Noah McNatt
          </ul>
          </div>
 
-         <div style="width:780px; margin:30px auto; border-style:solid; border-width:medium;">
+         <div style="position:relative; width:780px; margin:30px auto; border-style:solid; border-width:medium;">
             <img src="BasicWebDesign/images/minifigure1.jpg" alt="male minifigure" width="130" height="129" style="float:left; margin-right:15px;"/>
             <h3>Saul</h3>
             <p>Saul is the boss of The Minifigs, and knows how to keep everyone in check. With a degree<br/>in business management, he knows how to run a company and a team. He is loved and respected<br/>by his team, but the sentiment goes both ways.</p>
          </div>
 
-         <div style="width:780px; margin:30px auto; border-style:solid; border-width:medium;">
+         <div style="position:relative; width:780px; margin:30px auto; border-style:solid; border-width:medium;">
             <img src="BasicWebDesign/images/minifigure2.jpg" alt="male minifigure" width="130" height="130" style="float:left; margin-right:15px;"/>
             <h3>Mike</h3>
             <p>Mike, Saul's assistant, has been at the company for a while. Having been the previous boss, Mike<br/>decided to somewhat step back and let someone new take the reins. He has taught Saul a lot, and<br/>looks forward to seeing his bright future as the new boss of The Minifigs.</p>
          </div>
 
-         <div style="width:780px; margin:30px auto; border-style:solid; border-width:medium;">
+         <div style="position:relative; width:780px; margin:30px auto; border-style:solid; border-width:medium;">
             <img src="BasicWebDesign/images/minifigure3.jpg" alt="female minifigure" width="130" height="129" style="float:left; margin-right:15px;"/>
             <h3>Jenna</h3>
             <p>Jenna is the life of the party, always wanting to keep her co-workers happy while working.<br/>She also knows how to get down to business when it comes to keeping the company running<br/>smoothly.</p>
          </div>
 
-         <div style="width:780px; margin:30px auto; border-style:solid; border-width:medium;">
+         <div style="position:relative; width:780px; margin:30px auto; border-style:solid; border-width:medium;">
             <img src="BasicWebDesign/images/minifigure4.jpg" alt="male minifigure" width="130" height="130" style="float:left; margin-right:15px;"/>
             <h3>Jerry</h3>
             <p>Jerry is the new kid on the block, but he isn't afraid to make a name for himself. He joined<br/>The Minifigs to make a positive change in the world. Working with a great team, he's ready<br/>to reach his fullest potential.</p>
