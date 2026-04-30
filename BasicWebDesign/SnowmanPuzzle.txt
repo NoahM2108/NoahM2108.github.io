@@ -1,0 +1,64 @@
+Noah McNatt
+
+<!DOCTYPE html>
+<html lang="en-US">
+     <head>
+         <title>Snowman Puzzle</title>
+
+         <style>
+             section.grid-container1 {
+                                      display:grid;
+                                      width:800px;
+                                      height:150px;
+                                      font-family:cursive;
+                                      font-size:30px;
+                                      text-align:center;
+                                      align-content:center;
+                                      grid-template-columns:repeat (4, 1fr);
+                                      grid-template-areas:
+                                         'sp sp sp sp'
+                                         'nm nm dt dt';
+                                      gap:50px;
+                                      margin:auto;
+                                      padding:5px;
+                                                  }
+             div.item1 {grid-area:sp; /*snowman puzzle*/}
+             div.item2 {grid-area:nm; /*noah mcnatt*/}
+             div.item3 {grid-area:dt; /*date*/}
+
+             section.flex-container1 {
+                                      display:flex;
+                                      flex-direction:row;
+                                      flex-wrap:wrap;
+                                      width:600px;
+                                      height:400px;
+                                      justify-content:center;
+                                      margin:auto;
+                                                  }
+
+         </style>
+     </head>
+     <body>
+         <section class="grid-container1">
+             <div style="font-size:45px;" class="item1">Snowman Puzzle</div>
+             <div class="item2">Noah McNatt</div>
+             <div class="item3">4/30/2026</div>
+         </section>
+
+         <section class="flex-container1">
+             <div> <img src="BasicWebDesign/images/snowmanpuzzlepieceK.jpg" alt="snowman puzzle piece K"/> </div>
+             <div> <img src="BasicWebDesign/images/snowmanpuzzlepieceM.jpg" alt="snowman puzzle piece M"/> </div>
+             <div> <img src="BasicWebDesign/images/snowmanpuzzlepieceE.jpg" alt="snowman puzzle piece E"/> </div>
+             <div> <img src="BasicWebDesign/images/snowmanpuzzlepieceG.jpg" alt="snowman puzzle piece G"/> </div>
+             <div> <img src="BasicWebDesign/images/snowmanpuzzlepieceA.jpg" alt="snowman puzzle piece A"/> </div>
+             <div> <img src="BasicWebDesign/images/snowmanpuzzlepieceD.jpg" alt="snowman puzzle piece D"/> </div>
+             <div> <img src="BasicWebDesign/images/snowmanpuzzlepieceL.jpg" alt="snowman puzzle piece L"/> </div>
+             <div> <img src="BasicWebDesign/images/snowmanpuzzlepieceB.jpg" alt="snowman puzzle piece B"/> </div>
+             <div> <img src="BasicWebDesign/images/snowmanpuzzlepieceF.jpg" alt="snowman puzzle piece F"/> </div>
+             <div> <img src="BasicWebDesign/images/snowmanpuzzlepieceJ.jpg" alt="snowman puzzle piece J"/> </div>
+             <div> <img src="BasicWebDesign/images/snowmanpuzzlepieceH.jpg" alt="snowman puzzle piece H"/> </div>
+             <div> <img src="BasicWebDesign/images/snowmanpuzzlepieceI.jpg" alt="snowman puzzle piece I"/> </div>
+             <div style="visibility:hidden;"> <img src="BasicWebDesign/images/snowmanpuzzlepieceC.jpg" alt="snowman puzzle piece C"/> </div>
+         </section>
+     </body>
+</html>
