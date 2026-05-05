@@ -1,0 +1,50 @@
+Noah McNatt
+
+<!DOCTYPE html>
+<html lang="en-US">
+     <head>
+         <title>Fortnite 1v1 Challenge Scorecard</title>
+
+         <link rel="stylesheet" type="text/css" href="BasicWebDesign/CSSstylesheets/scorecardstylesheet.css"/>
+     </head>
+     <body>
+     <div>
+         <h1>Fortnite 1v1 Challenge Scorecard</h1>
+         <table>
+             <tr>
+                <th class="fortnite-first-span">Players</th>
+                <th>Round 1</th>
+                <th>Round 2</th>
+                <th>Round 3</th>
+                <th>Round 4</th>
+                <th>Round 5</th>
+                <th>Round 6</th>
+                <th>Round 7</th>
+                <th class="fortnite-last-span">Winner</th>
+             </tr>
+             <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+             </tr>
+             <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+             </tr>
+         </table>
+     </div>
+     </body>
+</html>
