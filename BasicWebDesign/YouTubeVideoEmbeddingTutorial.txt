@@ -49,8 +49,8 @@ Noah McNatt
          </div>
          <hr/>
          <div class="step-video">
-         <p>Great Job! You have successfully embedded a video into your website. The LEGO Batman example video is attached and viewable below.</p>
-         <iframe width="650" height="405" src="https://www.youtube.com/embed/DfJaUpW_P00?si=7ezE_XXWmsGPQ_aE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>Great Job! You have successfully embedded a video into your website. The LEGO Batman example video is attached and viewable below.</p>
+            <iframe width="650" height="405" src="https://www.youtube.com/embed/DfJaUpW_P00?si=7ezE_XXWmsGPQ_aE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
          </div>
      </body>
 </html>
