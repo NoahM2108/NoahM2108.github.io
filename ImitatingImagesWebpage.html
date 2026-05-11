@@ -1,0 +1,53 @@
+Noah McNatt
+
+<!DOCTYPE html>
+<html lang="en-US">
+     <head>
+         <title>Imitating Images</title>
+
+         <style>
+            div {text-align:center;
+                 margin-top:70px;
+                 margin-bottom:70px;}
+
+            h1 {text-align:center;
+                font-family:cursive;
+                font-size:70px;}
+
+            p {font-family:Arial, sans-serif;
+               font-size:50px;
+               color:white;
+               text-shadow:3px 3px 4px black;}
+         </style>
+     </head>
+     <body>
+         <h1>Imitating Images</h1>
+         <hr/>
+         <div>
+            <img src="BasicWebDesign/images/penguins.jpg" alt="penguins" style="-webkit-filter:sepia(75%); filter:sepia(75%); border-style:solid; border-width:thin; border-radius:50%;"/>
+         </div>
+
+         <div>
+            <img src="BasicWebDesign/images/football_field.jpg" alt="football field" style="width:600px; height:276px; -webkit-filter:grayscale(100%); filter:grayscale(100%); border:48px solid #000000; border-image:url(BasicWebDesign/images/tic-tac-toe.png) 48 round;"/>
+         </div>
+
+         <div>
+            <img src="BasicWebDesign/images/dinosaur.png" alt="dinosaur" style="-webkit-filter:hue-rotate(90deg) drop-shadow(15px 0px 5px #000000); filter:hue-rotate(90deg) drop-shadow(15px 0px 5px #000000);"/>
+         </div>
+
+         <div style="width:610px; height:400px; background-image:linear-gradient(150deg, #7C88FA, #C8CDFD, white); background-color:#CA82FF; margin:auto;">
+            <img src="BasicWebDesign/images/seagull.png" alt="seagull" style="margin-right:70px;"/>
+         </div>
+
+         <div>
+            <img src="BasicWebDesign/images/butterfly.jpg" alt="butterfly" style="border-radius:100px 0px 100px 0px; -webkit-filter:invert(100%) opacity(70%); filter:invert(100%) opacity(70%);"/>
+         </div>
+
+         <div style="position:relative; width:400px; height:352; margin:auto; margin-bottom:50px;">
+            <div>
+               <img src="BasicWebDesign/images/theater_stage.jpg" alt="theater stage" style="width:400px; height:352; -webkit-filter:blur(3px); filter:blur(3px);"/>
+            </div>
+            <p style="position:absolute; top:35%; left:50%; transform:translate(-50%, -50%);">Presenting</p>
+         </div>
+     </body>
+</html>
