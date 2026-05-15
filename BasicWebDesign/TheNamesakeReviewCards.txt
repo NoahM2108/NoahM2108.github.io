@@ -1,0 +1,104 @@
+Noah McNatt
+
+<!DOCTYPE html>
+<html lang="en-US">
+     <head>
+         <title>Thumpa Lahiri's The Namesake Review Cards</title>
+
+         <link rel="stylesheet" type="text/css" href="BasicWebDesign/CSSstylesheets/the_namesake_review_cards.css"/>
+     </head>
+     <body>
+         <h1>Thumpa Lahiri's The Namesake<br/>Review Cards</h1>
+
+         <section class="questions_1_2_3_4_5_6_7_8">
+
+              <div class="card1">
+              <div class="card">
+                 <div class="front">
+                    <p>What are the names of Gogol's parents?</p>
+                 </div>
+                 <div class="back">
+                    <p>Ashoke & Ashima</p>
+                 </div>
+              </div>
+              </div>
+
+              <div class="card2">
+              <div class="card">
+                 <div class="front">
+                 <p>What does Gogol legally change his name to?</p>
+                 </div>
+                 <div class="back">
+                    <p>Nikhil</p>
+                 </div>
+              </div>
+              </div>
+
+              <div class="card3">
+              <div class="card">
+                 <div class="front">
+                 <p>What book does Gogol's father give Gogol<br/>on his 14th birthday?</p>
+                 </div>
+                 <div class="back">
+                    <p>The Short Stories of Nikolai Gogol</p>
+                 </div>
+              </div>
+              </div>
+
+              <div class="card4">
+              <div class="card">
+                 <div class="front">
+                    <p>Where are Gogol's<br/>parents originally from?</p>
+                 </div>
+                 <div class="back">
+                    <p>Calcutta, India</p>
+                 </div>
+              </div>
+              </div>
+
+              <div class="card5">
+              <div class="card">
+                 <div class="front">
+                    <p>What is the name<br/>of Gogol's sister?</p>
+                 </div>
+                 <div class="back">
+                    <p>Sonia</p>
+                 </div>
+              </div>
+              </div>
+
+              <div class="card6">
+              <div class="card">
+                 <div class="front">
+                    <p>What is Gogol's<br/>college major?</p>
+                 </div>
+                 <div class="back">
+                    <p>Architecture</p>
+                 </div>
+              </div>
+              </div>
+
+              <div class="card7">
+              <div class="card">
+                 <div class="front">
+                    <p>In what year does<br/>the story start?</p>
+                 </div>
+                 <div class="back">
+                    <p>1968</p>
+                 </div>
+              </div>
+              </div>
+
+              <div class="card8">
+              <div class="card">
+                 <div class="front">
+                    <p>Who is the first<br/>girl Gogol dates?</p>
+                 </div>
+                 <div class="back">
+                    <p>Ruth</p>
+                 </div>
+              </div>
+              </div>
+         </section>
+     </body>
+</html>
